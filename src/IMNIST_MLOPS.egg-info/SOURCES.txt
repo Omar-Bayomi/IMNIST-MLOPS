@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/IMNIST_MLOPS.egg-info/PKG-INFO
+src/IMNIST_MLOPS.egg-info/SOURCES.txt
+src/IMNIST_MLOPS.egg-info/dependency_links.txt
+src/IMNIST_MLOPS.egg-info/top_level.txt

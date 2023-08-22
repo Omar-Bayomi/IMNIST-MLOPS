@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: IMNIST-MLOPS
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Omar-Bayomi/IMNIST-MLOPS
+Author: Omar-Bayomi
+Author-email: elomar10.om@gmail.com
+Project-URL: Bug Tracker, https://github.com/Omar-Bayomi/IMNIST-MLOPS/issues
+License-File: LICENSE
+
+# IMNIST-MLOPS
